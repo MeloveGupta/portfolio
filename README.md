@@ -1,4 +1,4 @@
-# 🚀 Melove Gupta — Portfolio
+# Melove Gupta | Portfolio
 
 A portfolio website built to showcase my projects, open-source contributions, technical skills, and questionable sleep schedule.
 
