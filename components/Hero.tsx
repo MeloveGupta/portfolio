@@ -43,7 +43,7 @@ const Hero = () => {
           </p>
 
           <TextGenerateEffect
-            words="Full Stack Developer building websites, APIs, and few headaches(for myself)..."
+            words="Full Stack Developer building websites, APIs, and a few headaches(for myself)..."
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
